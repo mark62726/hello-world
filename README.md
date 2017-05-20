@@ -1,3 +1,3 @@
 # hello-world
 hello-world example
-hellow- world edits, lesrnign to .git
+hellow- world edits, learnign to .git
